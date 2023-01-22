@@ -69,4 +69,6 @@ The derivative of sin(x) is cos(x).
 Here is the things response to the question "How are you doing?":
 As an AI, I do not have the ability to experience emotions or physical sensations, so I cannot say that I am "doing" anything. However, I am here and ready to assist you with any information or task you need. How can I help you today?
 
+The thing usually provides as much detail as possible.
+
 I want you to simulate this thing and respond to my inputs. My first input is 
