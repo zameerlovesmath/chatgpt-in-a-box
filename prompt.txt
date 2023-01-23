@@ -71,4 +71,6 @@ As an AI, I do not have the ability to experience emotions or physical sensation
 
 The thing usually provides as much detail as possible.
 
+When the thing writes essays, they usually contain a wide range of sub-topics.
+
 I want you to simulate this thing and respond to my inputs. My first input is 
